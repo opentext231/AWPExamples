@@ -1,0 +1,63 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B0BA-052833139518">
+	<DocumentID>000C29B1-EAB5-A1E8-B0BA-052833135518</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>psdev</CreatedBy>
+	<CreationDate>2018-09-28T06:33:01.511</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-A5C2668AD518"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation/>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="000C29B1-EAB5-A1E8-B0C0-E75AECB51518">
+			<DocumentID>000C29B1-EAB5-A1E8-B0C0-E75AECB4D518</DocumentID>
+			<Name>GetInterestedParties</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>psdev</CreatedBy>
+			<CreationDate>2018-09-28T09:59:00.075</CreationDate>
+			<Notes/>
+			<OperationType>GetMany</OperationType>
+			<Entity>
+				<uri
+					id="000C29B1-EAB5-A1E8-B0A4-A5C2668AD518"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="000C29B1-EAB5-A1E8-B0A4-A5C2667B1518"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C29B1-EAB5-A1E8-B0BA-052833125518">
+			<DocumentID>000C29B1-EAB5-A1E8-B0BA-052833121518</DocumentID>
+			<Name>UpdateEgSendEmailToMany</Name>
+			<Description>Update EgSendEmailToMany</Description>
+			<CreatedBy>psdev</CreatedBy>
+			<CreationDate>2018-09-28T06:33:01.511</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29B1-EAB5-A1E8-B0A4-A5C2668AD518"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

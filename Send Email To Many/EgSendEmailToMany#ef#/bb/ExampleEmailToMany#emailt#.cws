@@ -1,0 +1,50 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B13C-86A3DB199518">
+	<DocumentID>000C29B1-EAB5-A1E8-B13C-86A3DB195518</DocumentID>
+	<Name>ExampleEmailToMany</Name>
+	<Description>ExampleEmailToMany</Description>
+	<CreatedBy>psdev</CreatedBy>
+	<CreationDate>2018-09-30T20:49:21.321</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>This email is being sent to multiple people</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>Sending email to multiple recipients</Subject>
+	<To>{item.Properties.InterestedPartyEmails}</To>
+	<BCCRole/>
+	<BuildingBlock>
+		<uri
+			id="000C29B1-EAB5-A1E8-B13C-86A3DB19D518"
+		/>
+	</BuildingBlock>
+	<CCRole/>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="000C29B1-EAB5-A1E8-B13C-86A3DB161518">
+			<DocumentID>000C29B1-EAB5-A1E8-B13C-86A3DB15D518</DocumentID>
+			<Name>000C29B1-EAB5-A1E8-B13C-86A3DB15D518</Name>
+			<Description>000C29B1-EAB5-A1E8-B13C-86A3DB15D518</Description>
+			<CreatedBy>psdev</CreatedBy>
+			<CreationDate>2018-09-30T20:49:21.321</CreationDate>
+			<Notes/>
+			<DeveloperText>Example Email To Many</DeveloperText>
+			<Identifier>
+				<uri
+					id="000C29B1-EAB5-A1E8-B13C-86A3DB165518"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<ToRole/>
+	<TypeDefinition/>
+</EmailTemplate>

@@ -11,6 +11,7 @@
 	<CreationDate>2018-09-27T20:20:52.162</CreationDate>
 	<Notes/>
 	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
 	<ISVPackageInfo>
 		<ISVPackageInfo
 			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
@@ -42,7 +43,7 @@
 	<RuntimeQualifiedName/>
 	<SourceFolder>
 		<uri
-			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5CD518"
+			id="28DFEB6B-98A5-A1EE-9775-20CF851449D1"
 			path="Send Email To Many"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>

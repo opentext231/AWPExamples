@@ -11,6 +11,7 @@
 	<CreationDate>2018-10-01T10:20:59.017</CreationDate>
 	<Notes/>
 	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
 	<ISVPackageInfo>
 		<ISVPackageInfo
 			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
@@ -42,63 +43,10 @@
 	<RuntimeQualifiedName/>
 	<SourceFolder>
 		<uri
-			id="000C29B1-EAB5-A1E8-B152-279F14095518"
+			id="28DFEB6B-98A5-A1EE-9775-20CF84D3C9D1"
 			path="Shared Assets"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
-	<!--
-	<_AddOns>
-		<TranslationInformation
-			type="com.cordys.translation.TranslationInformation"
-			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
-			RuntimeDocumentID="000C29B1-EAB5-A1E8-B152-279F14089518">
-			<DocumentID>000C29B1-EAB5-A1E8-B152-279F14085518</DocumentID>
-			<Name>TranslationInformation</Name>
-			<Description>TranslationInformation</Description>
-			<CreatedBy>AppWorks Developer</CreatedBy>
-			<CreationDate>2018-10-01T10:20:59.013</CreationDate>
-			<Notes/>
-			<LanguagePacks>
-				<LanguagePack
-					type="com.cordys.translation.LanguagePack"
-					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
-					RuntimeDocumentID="000C29B1-EAB5-A1E8-B152-279F14079518">
-					<DocumentID>000C29B1-EAB5-A1E8-B152-279F14075518</DocumentID>
-					<Name>en-US</Name>
-					<Description>en-US</Description>
-					<CreatedBy>AppWorks Developer</CreatedBy>
-					<CreationDate>2018-10-01T10:20:59.014</CreationDate>
-					<Notes/>
-					<Language>English - United States</Language>
-					<Texts>
-						<uri
-							id="000C29B1-EAB5-A1E8-B152-279F1406D518"
-							path="Shared Assets/en-US_000C29B1-EAB5-A1E8-B152-279F1406D518"
-							type="com.cordys.cws.associations.MergeableAssociation"
-						/>
-					</Texts>
-					<TranslationInformation>
-						<uri
-							id="000C29B1-EAB5-A1E8-B152-279F14085518"
-						/>
-					</TranslationInformation>
-				</LanguagePack>
-			</LanguagePacks>
-			<ProjectLanguage>
-				<uri
-					id="000C29B1-EAB5-A1E8-B152-279F14075518"
-				/>
-			</ProjectLanguage>
-			<Texts>
-				<uri
-					id="000C29B1-EAB5-A1E8-B152-279F1407D518"
-					path="Shared Assets/TranslationInformation_000C29B1-EAB5-A1E8-B152-279F1407D518"
-					type="com.cordys.cws.associations.MergeableAssociation"
-				/>
-			</Texts>
-			<TranslationInformation/>
-		</TranslationInformation>
-	</_AddOns>
-	-->
+	<_AddOns/>
 </Project>
