@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B14D-EA656FE09518">
+	<DocumentID>000C29B1-EAB5-A1E8-B14D-EA656FE05518</DocumentID>
+	<Name>000C29B1-EAB5-A1E8-B14D-EA656FE05518</Name>
+	<Description>Update Value of Entity</Description>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2018-10-01T05:10:19.677</CreationDate>
+	<Notes/>
+	<DefaultText>Update Value of Entity</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5A5518"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29B1-EAB5-A1E8-B14D-EA656FE0D518"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B14D-6B3B49141518">
+	<DocumentID>000C29B1-EAB5-A1E8-B14D-833BF980D518</DocumentID>
+	<Name>000C29B1-EAB5-A1E8-B14D-833BF980D518</Name>
+	<Description>OnCreate Set InterestedPartiesEmail</Description>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2018-10-01T04:56:44.223</CreationDate>
+	<Notes/>
+	<DefaultText>OnCreate Set InterestedPartiesEmail</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5A5518"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29B1-EAB5-A1E8-B14D-6B3B49145518"
+		/>
+	</Translations>
+</TextIdentifier>

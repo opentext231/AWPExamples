@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B184-E1B0EC7E5518">
+	<DocumentID>000C29B1-EAB5-A1E8-B184-E1B0EC7E1518</DocumentID>
+	<Name>000C29B1-EAB5-A1E8-B184-E1B0EC7E1518</Name>
+	<Description>Eg Email Send To Many</Description>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2018-10-02T07:42:23.007</CreationDate>
+	<Notes/>
+	<DefaultText>Eg Email Send To Many</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5A5518"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29B1-EAB5-A1E8-B184-E1B0EC7E9518"
+		/>
+	</Translations>
+</TextIdentifier>

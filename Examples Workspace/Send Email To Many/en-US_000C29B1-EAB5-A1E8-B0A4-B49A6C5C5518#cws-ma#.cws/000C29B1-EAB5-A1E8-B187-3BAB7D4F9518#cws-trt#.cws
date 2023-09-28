@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B187-3BAB7D4FD518">
+	<DocumentID>000C29B1-EAB5-A1E8-B187-3BAB7D4F9518</DocumentID>
+	<Name>000C29B1-EAB5-A1E8-B187-3BAB7D4F9518</Name>
+	<Description>Util Update Interested Party Emails2</Description>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2018-10-02T08:27:35.929</CreationDate>
+	<Notes/>
+	<Text>Util Update Interested Party Emails2</Text>
+	<Language>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5BD518"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29B1-EAB5-A1E8-B187-3BAB7D4F1518"
+		/>
+	</TextIdentifier>
+</TranslatedText>

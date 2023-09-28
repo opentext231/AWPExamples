@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B11D-88EEAC669518">
+	<DocumentID>000C29B1-EAB5-A1E8-B11D-88EEAC665518</DocumentID>
+	<Name>000C29B1-EAB5-A1E8-B11D-88EEAC665518</Name>
+	<Description>Remove Initial Comma</Description>
+	<CreatedBy>psdev</CreatedBy>
+	<CreationDate>2018-09-30T09:12:39.069</CreationDate>
+	<Notes/>
+	<DefaultText>Remove Initial Comma</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5A5518"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29B1-EAB5-A1E8-B11D-88EEAC66D518"
+		/>
+	</Translations>
+</TextIdentifier>

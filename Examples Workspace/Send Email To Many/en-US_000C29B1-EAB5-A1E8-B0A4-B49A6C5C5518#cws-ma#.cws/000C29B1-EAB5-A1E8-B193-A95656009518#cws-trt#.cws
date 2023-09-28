@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B193-A9565600D518">
+	<DocumentID>000C29B1-EAB5-A1E8-B193-A95656009518</DocumentID>
+	<Name>000C29B1-EAB5-A1E8-B193-A95656009518</Name>
+	<Description>OnChange Interested Party Clear</Description>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2018-10-02T14:23:54.195</CreationDate>
+	<Notes/>
+	<Text>OnChange Interested Party Clear</Text>
+	<Language>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5BD518"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29B1-EAB5-A1E8-B193-A95656001518"
+		/>
+	</TextIdentifier>
+</TranslatedText>

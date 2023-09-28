@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B185-86D53F059518">
+	<DocumentID>000C29B1-EAB5-A1E8-B185-86D53F055518</DocumentID>
+	<Name>000C29B1-EAB5-A1E8-B185-86D53F055518</Name>
+	<Description>Untitled Business Process Model</Description>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2018-10-02T08:27:10.221</CreationDate>
+	<Notes/>
+	<Text>Untitled Business Process Model</Text>
+	<Language>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5BD518"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29B1-EAB5-A1E8-B185-86D53F04D518"
+		/>
+	</TextIdentifier>
+</TranslatedText>
