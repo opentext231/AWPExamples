@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B0C2-74602CC69518">
+	<DocumentID>000C29B1-EAB5-A1E8-B0C2-74602CC65518</DocumentID>
+	<Name>000C29B1-EAB5-A1E8-B0C2-74602CC65518</Name>
+	<Description>On Party Change</Description>
+	<CreatedBy>psdev</CreatedBy>
+	<CreationDate>2018-09-28T10:34:11.792</CreationDate>
+	<Notes/>
+	<Text>On Party Change</Text>
+	<Language>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0A4-B49A6C5BD518"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29B1-EAB5-A1E8-B0C2-74602CC5D518"
+		/>
+	</TextIdentifier>
+</TranslatedText>

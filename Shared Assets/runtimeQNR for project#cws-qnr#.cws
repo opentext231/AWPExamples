@@ -1,0 +1,13 @@
+
+<QualifiedNameRoot
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.namespace.qualifiedname.QualifiedNameRoot"
+	typeVersion="9bd1dc20-2f5e-11e3-aa6e-0800200c9a66"
+	RuntimeDocumentID="000C29B1-EAB5-A1E8-B158-EBFE38525518">
+	<DocumentID>000C29B1-EAB5-A1E8-B158-EBFE38521518</DocumentID>
+	<Name>runtimeQNR for project</Name>
+	<Description/>
+	<CreatedBy>AppWorks Developer</CreatedBy>
+	<CreationDate>2018-10-01T10:20:59.016</CreationDate>
+	<Notes/>
+</QualifiedNameRoot>
